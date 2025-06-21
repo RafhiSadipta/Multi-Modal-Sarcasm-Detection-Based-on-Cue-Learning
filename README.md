@@ -10,3 +10,4 @@ Preprocessed Text: https://www.kaggle.com/datasets/abyanba/preprocessed-sarcasm-
 
 ### Model
 https://drive.google.com/drive/folders/1SC7GqIA1wMXF20oNOdh4HczkgxOZt0eP
+
